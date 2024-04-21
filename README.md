@@ -8,6 +8,7 @@ Welcome to Jovian Careers, a Flask-driven website with a frontend built using HT
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
