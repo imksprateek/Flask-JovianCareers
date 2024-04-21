@@ -1,6 +1,6 @@
 # Jovian Careers
 
-Welcome to Jovian Careers, a Flask-driven website with a frontend built using HTML and CSS. This repository contains the source code and resources for building and deploying the Jovian Careers website.
+Welcome to Jovian Careers, a Flask-driven website with a frontend built using HTML, CSS and Bootstrap. This repository contains the source code and resources for building and deploying the Jovian Careers website.
 
 ## Table of Contents
 
