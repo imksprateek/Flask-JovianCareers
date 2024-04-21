@@ -43,6 +43,14 @@ Once the Jovian Careers website is set up and running, you can:
 - Sign up for an account to access personalized features such as saving favorite listings and tracking application statuses.
 - Apply for jobs directly through the website.
 
+## Screenshots
+
+![Screenshot 1](/screenshots/screenshot1.png)
+*Home Page*
+
+![Screenshot 2](/screenshots/screenshot2.png)
+*Job Items*
+
 ## Contributing
 
 Contributions to Jovian Careers are welcome! If you have any ideas for new features, improvements to existing functionality, or bug fixes, feel free to open an issue or submit a pull request. Please adhere to the project's coding standards and guidelines when contributing.
